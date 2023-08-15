@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Cham_RealEstate/static/css/main.dfd58e26.css",
+    "main.js": "/Cham_RealEstate/static/js/main.72bfd8c8.js",
+    "static/js/787.eb4d1c36.chunk.js": "/Cham_RealEstate/static/js/787.eb4d1c36.chunk.js",
+    "static/media/mainImg3.jpg": "/Cham_RealEstate/static/media/mainImg3.5b2d98722486507f814c.jpg",
+    "static/media/mainImg2.jpg": "/Cham_RealEstate/static/media/mainImg2.f60f45325c98cca05124.jpg",
+    "static/media/mainImg4.jpg": "/Cham_RealEstate/static/media/mainImg4.54354dbf87f6b7dd78da.jpg",
+    "static/media/mainImg1.jpg": "/Cham_RealEstate/static/media/mainImg1.d6d53bcc054077d96197.jpg",
+    "static/media/logo.jpg": "/Cham_RealEstate/static/media/logo.ccf397751f008b945cf4.jpg",
+    "index.html": "/Cham_RealEstate/index.html",
+    "main.dfd58e26.css.map": "/Cham_RealEstate/static/css/main.dfd58e26.css.map",
+    "main.72bfd8c8.js.map": "/Cham_RealEstate/static/js/main.72bfd8c8.js.map",
+    "787.eb4d1c36.chunk.js.map": "/Cham_RealEstate/static/js/787.eb4d1c36.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dfd58e26.css",
+    "static/js/main.72bfd8c8.js"
+  ]
+}
