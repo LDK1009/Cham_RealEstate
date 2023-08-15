@@ -1,20 +1,25 @@
 {
   "files": {
-    "main.css": "/Cham_RealEstate/static/css/main.dfd58e26.css",
-    "main.js": "/Cham_RealEstate/static/js/main.fa4c3c11.js",
+    "main.css": "/Cham_RealEstate/static/css/main.bb08339a.css",
+    "main.js": "/Cham_RealEstate/static/js/main.fd1c116d.js",
     "static/js/787.eb4d1c36.chunk.js": "/Cham_RealEstate/static/js/787.eb4d1c36.chunk.js",
     "static/media/mainImg3.jpg": "/Cham_RealEstate/static/media/mainImg3.5b2d98722486507f814c.jpg",
     "static/media/mainImg2.jpg": "/Cham_RealEstate/static/media/mainImg2.f60f45325c98cca05124.jpg",
     "static/media/mainImg4.jpg": "/Cham_RealEstate/static/media/mainImg4.54354dbf87f6b7dd78da.jpg",
     "static/media/mainImg1.jpg": "/Cham_RealEstate/static/media/mainImg1.d6d53bcc054077d96197.jpg",
+    "static/media/TypoImg4.jpg": "/Cham_RealEstate/static/media/TypoImg4.4797e88c463d396ac7b9.jpg",
+    "static/media/TypoImg1.jpg": "/Cham_RealEstate/static/media/TypoImg1.af536803364481c54dc2.jpg",
+    "static/media/TypoImg3.jpg": "/Cham_RealEstate/static/media/TypoImg3.cfbcbf49b482de3f3644.jpg",
+    "static/media/TypoImg2.jpg": "/Cham_RealEstate/static/media/TypoImg2.5758c621f78a702f50f2.jpg",
+    "static/media/textlogo.jpg": "/Cham_RealEstate/static/media/textlogo.4144415a792fbb2401c0.jpg",
     "static/media/logo.jpg": "/Cham_RealEstate/static/media/logo.ccf397751f008b945cf4.jpg",
     "index.html": "/Cham_RealEstate/index.html",
-    "main.dfd58e26.css.map": "/Cham_RealEstate/static/css/main.dfd58e26.css.map",
-    "main.fa4c3c11.js.map": "/Cham_RealEstate/static/js/main.fa4c3c11.js.map",
+    "main.bb08339a.css.map": "/Cham_RealEstate/static/css/main.bb08339a.css.map",
+    "main.fd1c116d.js.map": "/Cham_RealEstate/static/js/main.fd1c116d.js.map",
     "787.eb4d1c36.chunk.js.map": "/Cham_RealEstate/static/js/787.eb4d1c36.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.dfd58e26.css",
-    "static/js/main.fa4c3c11.js"
+    "static/css/main.bb08339a.css",
+    "static/js/main.fd1c116d.js"
   ]
 }
